@@ -5,14 +5,17 @@
 
 :root {
   
-  --back_color:  #000028;
+
+  --color_black:#000028;
+  --color_red:#FF0070;
+  --back_color:  var(--color_black);
   --h1-color: #DB00FF;
-  --shadow-color:#FF0070;
-  --h3-color:#FF0070;
-  --h2_4_5-color:#000028;
-  --h2_4_5_back-color:#FF0070;
-  --corner-color:#FF0070;
-  --rec-color:#FF0070;
+  --shadow-color:var(--color_red);
+  --h3-color:var(--color_red);
+  --h2_4_5-color: var(--color_black);
+  --h2_4_5_back-color:var(--color_red);
+  --corner-color:var(--color_red);
+  --rec-color:var(--color_red);
   --p_color:#F1B2CE;
   --font-family: "IBM Plex mono", sans-serif;
 
