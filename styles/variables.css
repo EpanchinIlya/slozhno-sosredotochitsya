@@ -6,8 +6,15 @@
 :root {
   
   --back_color:  #000028;
-  --heading-color: #DB00FF;
+  --h1-color: #DB00FF;
   --shadow-color:#FF0070;
+  --h3-color:#FF0070;
+  --h2_4_5-color:#000028;
+  --h2_4_5_back-color:#FF0070;
+  --corner-color:#FF0070;
+  --rec-color:#FF0070;
   --p_color:#F1B2CE;
   --font-family: "IBM Plex mono", sans-serif;
+
 }
+
