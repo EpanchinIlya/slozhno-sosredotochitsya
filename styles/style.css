@@ -144,6 +144,7 @@
   pointer-events: none;
 }
 
+
 /*  ================    href   ====================    */
 
 a {
@@ -153,6 +154,10 @@ a {
 
 a:hover {
   border-bottom: 1px solid var(--p_color);
+}
+
+a:focus {
+ outline: none;
 }
 
 a:focus-visible {
