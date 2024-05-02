@@ -4,20 +4,16 @@
 */
 
 :root {
-  
-
-  --color_black:#000028;
-  --color_red:#FF0070;
-  --back_color:  var(--color_black);
-  --h1-color: #DB00FF;
-  --shadow-color:var(--color_red);
-  --h3-color:var(--color_red);
-  --h2_4_5-color: var(--color_black);
-  --h2_4_5_back-color:var(--color_red);
-  --corner-color:var(--color_red);
-  --rec-color:var(--color_red);
-  --p_color:#F1B2CE;
+  --back-color: #000028;
+  --hover-color: rgba(255, 0, 112, 0.4);
+  --page-title-color: #db00ff;
+  --shadow-color: #ff0070;
+  --section-color: #ff0070;
+  --article-title-color: #000028;
+  --article-title-back-color: #ff0070;
+  --corner-color: #ff0070;
+  --rec-color: #ff0070;
+  --text-color: #f1b2ce;
   --font-family: "IBM Plex mono", sans-serif;
-
+  --background-image: url(../images/cover-image-dark.png) no-repeat center/ cover;
 }
-
