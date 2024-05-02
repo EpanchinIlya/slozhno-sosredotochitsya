@@ -4,25 +4,20 @@
   переключая тему
 */
 
-
 :root .theme-dark {
-  
-  --color_black:#000028;
-  --color_red:#FF0070;
-  --back_color:  var(--color_black);
-  --h1-color: #DB00FF;
-  --shadow-color:var(--color_red);
-  --h3-color:var(--color_red);
+  --color_black: #000028;
+  --color_red: #ff0070;
+  --back_color: var(--color_black);
+  --h1-color: #db00ff;
+  --shadow-color: var(--color_red);
+  --h3-color: var(--color_red);
   --h2_4_5-color: var(--color_black);
-  --h2_4_5_back-color:var(--color_red);
-  --corner-color:var(--color_red);
-  --rec-color:var(--color_red);
-  --p_color:#F1B2CE;
+  --h2_4_5_back-color: var(--color_red);
+  --corner-color: var(--color_red);
+  --rec-color: var(--color_red);
+  --p_color: #f1b2ce;
   --font-family: "IBM Plex mono", sans-serif;
- 
-
 }
-
 
 
 
