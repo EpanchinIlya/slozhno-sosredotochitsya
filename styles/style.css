@@ -217,7 +217,7 @@
 }
 
 .generic_article_text {
-  margin-block-end: 19.8px;
+  margin-block-end: 20px;
   color: var(--text-color);
   font-family: var(--font-family);
   font-weight: normal;
@@ -262,7 +262,6 @@
 /* 768 x 1024 ============================================================= */
 
 @media (width >=768px) {
-
   /*  ================   absolute   ====================    */
   .rec {
     top: 20px;
@@ -339,10 +338,6 @@
     margin: 20px 0 10px 0;
   }
 
-  .why_article_text {
-    margin: 0 0 10px 0;
-  }
-
   /*  ================    second article   ====================   */
 
   .what_section {
@@ -356,10 +351,6 @@
 
   .what_article {
     grid-column: 1 / span 2;
-  }
-
-  .what_article_text {
-    margin-bottom: 10px;
   }
 
   /*  ================    thrid article   ====================   */
@@ -378,10 +369,6 @@
   .how_article_title {
     margin-block-start: 0;
     margin-block-end: 10px;
-  }
-
-  .how_article_text {
-    margin-block-end: 20px;
   }
 
   /*  ================    fourth article   ====================   */
